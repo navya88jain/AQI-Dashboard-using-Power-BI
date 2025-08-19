@@ -4,7 +4,7 @@ A sample dataset is taken containing AQI Values for over 100 countries over four
 
 ## Dashboard Preview
 
-! [Screenshot of Dashboard] (Sample%20Screenshots/Screenshot%201.png)
+![Screenshot of Dashboard](Sample%20Screenshots/Screenshot%201.png)
 
 ---
 
